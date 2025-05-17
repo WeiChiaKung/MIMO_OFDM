@@ -2,6 +2,8 @@
 
 This project simulates a wireless communication system based on **MIMO (Multiple-Input Multiple-Output)** combined with **OFDM (Orthogonal Frequency Division Multiplexing)**. The goal is to analyze the system’s performance in multipath fading channels.
 
+![image](https://github.com/user-attachments/assets/14988c35-a911-4384-95a3-0965d06af32d)
+
 ## 📌 Project Overview
 
 The implementation includes the following modules:
@@ -16,6 +18,3 @@ The MIMO OFDM receiver architecture:
 ![image](https://github.com/user-attachments/assets/ae5aaefa-7f91-41d6-bca8-df65f7a7382f)
 
 
-MIMO:
-
-![image](https://github.com/user-attachments/assets/14988c35-a911-4384-95a3-0965d06af32d)
