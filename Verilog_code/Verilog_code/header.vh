@@ -1,0 +1,9 @@
+`ifndef HEADER_VH
+`define HEADER_VH
+
+`define INTEGER_BITS 4
+`define FRACTION_BITS 9
+`define FIXED_POINT_WIDTH (`INTEGER_BITS + `FRACTION_BITS)
+`define FIFO_DEPTH 220
+
+`endif
