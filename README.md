@@ -11,7 +11,7 @@ The implementation includes the following modules:
 - Receiver signal processing (cyclic prefix removal, FFT, MIMO equalization)
 - BER (Bit Error Rate) calculation and performance evaluation
 
-The MIMO OFDM reciever architecture:
+The MIMO OFDM receiver architecture:
 - ![image](https://github.com/user-attachments/assets/ae5aaefa-7f91-41d6-bca8-df65f7a7382f)
 
 
